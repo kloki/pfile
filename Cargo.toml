@@ -2,7 +2,9 @@
 name = "pfile"
 version = "0.1.0"
 edition = "2021"
-
+description = "A cli wrapper around OpenAI to generate files/snippets in different languages that work for me."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/kloki/pfile"
 [dependencies]
 indicatif = "0.17.8"
 reqwest = { version = "0.11", features = ["json", "blocking"] }
