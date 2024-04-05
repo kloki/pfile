@@ -1,6 +1,6 @@
 [package]
 name = "pfile"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A cli wrapper around OpenAI to generate files/snippets in different languages that work for me."
 license = "MIT OR Apache-2.0"
